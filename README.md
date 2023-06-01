@@ -6,9 +6,9 @@
 </div>
 <div align="center"><br>
   
-| ⚡ Tecnologias:    |  📚 Vou aprender: |
+| ⚡ Tecnologias:    |  📚 Estou aprendendo: |
 | ------------------- | ------------------- |
-|  [![Minhas habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,mysql,bootstrap)](https://skillicons.dev) |  [![Skills to learn](https://skillicons.dev/icons?i=figma,python,linux,ts)](https://skillicons.dev) |
+|  [![Minhas habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,mysql,bootstrap)](https://skillicons.dev) |  [![Skills to learn](https://skillicons.dev/icons?i=python,linux)](https://skillicons.dev) |
   
 </div>
   
