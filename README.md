@@ -8,7 +8,7 @@
   
 | ⚡ Tecnologias:    |  📚 Vou aprender: |
 | ------------------- | ------------------- |
-|  [![Minhas habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,mysql,bootstrap)](https://skillicons.dev) |  [![Skills to learn](https://skillicons.dev/icons?i=figma,python,java,gamemakerstudio,linux,ts)](https://skillicons.dev) |
+|  [![Minhas habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,mysql,bootstrap)](https://skillicons.dev) |  [![Skills to learn](https://skillicons.dev/icons?i=figma,python,linux,ts)](https://skillicons.dev) |
   
 </div>
   
